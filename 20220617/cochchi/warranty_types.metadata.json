@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"cochchi.warranty_types"},{"v":2,"unique":true,"key":{"warranty_type":1},"name":"warranty_type_1","ns":"cochchi.warranty_types","background":true}],"uuid":"9a804b3ec1194d2fb707de7c8828b811"}

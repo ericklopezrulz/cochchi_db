@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"cochchi.warranty_periods"},{"v":2,"unique":true,"key":{"warranty_period":1},"name":"warranty_period_1","ns":"cochchi.warranty_periods","background":true}],"uuid":"45f2d16071d54c5cb6ec86f44b790f82"}
